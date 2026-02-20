@@ -1,0 +1,14 @@
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\bin\Debug\net7.0\7.-practica-modularizando-el-caos.exe
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\bin\Debug\net7.0\7.-practica-modularizando-el-caos.deps.json
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\bin\Debug\net7.0\7.-practica-modularizando-el-caos.runtimeconfig.json
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\bin\Debug\net7.0\7.-practica-modularizando-el-caos.dll
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\bin\Debug\net7.0\7.-practica-modularizando-el-caos.pdb
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\7.-practica-modularizando-el-caos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\7.-practica-modularizando-el-caos.AssemblyInfoInputs.cache
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\7.-practica-modularizando-el-caos.AssemblyInfo.cs
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\7.-practica-modularizando-el-caos.csproj.CoreCompileInputs.cache
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\7.-practica-modularizando-el-caos.dll
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\refint\7.-practica-modularizando-el-caos.dll
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\7.-practica-modularizando-el-caos.pdb
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\7.-practica-modularizando-el-caos.genruntimeconfig.cache
+C:\Users\enrri\Documents\Tareas_del_itla\7.-practica-modularizando-el-caos\obj\Debug\net7.0\ref\7.-practica-modularizando-el-caos.dll
